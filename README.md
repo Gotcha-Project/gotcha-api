@@ -38,6 +38,6 @@ Architecture diagram:
                               Docker
                                 |
                                 v
-                      +------------------+
-                      |  Docker Compose  |
-                      +------------------+
+                       +------------------+
+                       |  Docker Compose  |
+                       +------------------+
